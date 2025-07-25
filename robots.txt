@@ -1,3 +1,5 @@
+User-agent: CCBot
+Disallow: /
 User-agent: *
 Disallow:
 Sitemap: https://jpfile.github.io/publii/sitemap.xml
